@@ -9,9 +9,9 @@
     "*://*/*"
   ],
   "icons": {
-    "16": "icons/16.png",
-    "48": "icons/48.png",
-    "128": "icons/128.png"
+    "16": "icons/cloud.png",
+    "48": "icons/cloud.png",
+    "128": "icons/cloud.png"
   },
   "background": {
     "scripts": [
@@ -23,8 +23,8 @@
     "default_popup": "popup.html",
     "default_title": "__MSG_extName__",
     "default_icon": {
-      "19": "icons/19.png",
-      "38": "icons/38.png"
+      "19": "icons/cloud.png",
+      "38": "icons/cloud.png"
     }
   }
 }
