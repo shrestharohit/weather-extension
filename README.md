@@ -1,4 +1,4 @@
-# weather-app
+Chrome extension
 
 ## Project setup
 ```
